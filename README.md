@@ -42,6 +42,7 @@
 - Extensive use of try-except blocks for managing database errors and invalid user inputs.
 
 ## III. Integration of SDG 8🔍
+![1_tugtGW5WpXKdpuaPvM2SHg](https://github.com/user-attachments/assets/059e01ee-e41f-4d70-b084-f726e2ac557c)
 
 📍SDG 8 emphasizes the need for accessible and efficient financial tools to foster economic productivity. Pennypal directly supports this goal by offering a streamlined, accessible banking system for users. It simplifies account management, reduces financial errors, and empowers individuals to monitor their financial transactions, supporting inclusivity and financial growth📍
 ## Running the Program🏃🏼‍♂️
